@@ -8,7 +8,7 @@
 ![GitHub Forks](https://img.shields.io/github/forks/Mohammad222PR/pagify?style=flat&logo=github)
 ![GitHub Issues](https://img.shields.io/github/issues/Mohammad222PR/pagify?style=flat&logo=github)
 ![Python Version](https://img.shields.io/badge/python-3.7%2B-blue?style=flat&logo=python)
-![MIT License](https://img.shields.io/github/license/Mohammad222PR/pagify?style=flat)
+![MIT License](https://github.com/Mohammad222PR/pagify/blob/main/LICENSE?style=flat)
 ![Contributors](https://img.shields.io/github/contributors/Mohammad222PR/pagify?style=flat)
 ![GitHub Repo Size](https://img.shields.io/github/repo-size/Mohammad222PR/pagify?style=flat)
 ![Commit Activity](https://img.shields.io/github/commit-activity/m/Mohammad222PR/pagify?style=flat)
