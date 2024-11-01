@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./docs/images/Screenshot%202024-11-01%20145432.png" alt="Pagify Logo" width="350px"/>
+  <img src="./docs/images/pagify.png" alt="Pagify Logo" width="350px"/>
 </div>
 
 <div align="center">
