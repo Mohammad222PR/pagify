@@ -34,7 +34,7 @@ class JSONResponseFormatter:
             "data": data,
             "pagination": pagination_info
         }
-        return json.dumps(response)
+        return response
 
     @staticmethod
     def parse_response(json_response: str) -> Dict[str, Any]:
